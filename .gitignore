@@ -1,0 +1,15 @@
+# 不上传 my_papers 中的 PDF 论文
+my_papers/**/*.pdf
+my_papers/*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.env.*
+
+# IDE（不需要可删掉下一行）
+.idea/
