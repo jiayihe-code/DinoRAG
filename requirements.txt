@@ -1,0 +1,17 @@
+# Web 交互框架
+streamlit>=1.28.0
+
+# LLM 调用客户端 (用于请求 DeepSeek API)
+openai>=1.0.0
+
+# 向量数据库
+chromadb>=0.4.0
+
+# 文本向量化与重排模型
+sentence-transformers>=2.2.0
+
+# 文本切分工具
+langchain-text-splitters>=0.0.1
+
+# 高级 PDF 块级解析器
+PyMuPDF>=1.23.0
